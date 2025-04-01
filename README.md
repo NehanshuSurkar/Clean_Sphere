@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-# Clean_Sphere
-=======
-# clean_sphere
+Weather App
 
-A new Flutter project.
+CleanSphere is a flutter based mobile application for smart waste management 
+includeing features like,  
 
-## Getting Started
+1) real-time garbage truck tracking
+2) reporting garbage related complaints
+3) Admin Dashboard for Municipal authorities
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> f384bc7 (Initial Commit)
+    
