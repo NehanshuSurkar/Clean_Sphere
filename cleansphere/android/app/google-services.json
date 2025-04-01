@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827399046464",
+    "project_id": "cleansphere-a2c66",
+    "storage_bucket": "cleansphere-a2c66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827399046464:android:655f39873d5b754f5f26a5",
+        "android_client_info": {
+          "package_name": "com.example.cleansphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJaapIw1hrWqWEl_NhL6iGQ3PNZvFQfjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
